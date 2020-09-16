@@ -6,11 +6,10 @@
 -->
 <html>
 	<head>
-		<title>Huosj的小站</title>
+		<title>Editorial by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="icon" href="images/pic00.jpg" >
 	</head>
 	<body class="is-preload">
 
@@ -24,7 +23,6 @@
 							<!-- Header -->
 								<header id="header">
 									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
-									<!--
 									<ul class="icons">
 										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
@@ -32,59 +30,58 @@
 										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
 									</ul>
-									-->
 								</header>
 
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Hi, I’m Huosj</h1>
-											<p>一只废物</p>
+											<h1>Hi, I’m Editorial<br />
+											by HTML5 UP</h1>
+											<p>A free and fully responsive site template</p>
 										</header>
-										<p>「生まれて、すみません」<br/>「生而为人，我很抱歉」</p>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 										<ul class="actions">
-											<li><a href="https://res.abeim.cn/api/qq/?qq=1056496690" class="button big">Contact by QQ</a></li>
+											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image object">
-										<img src="images/pic00.jpg" alt="头像" />
+										<img src="images/pic10.jpg" alt="" />
 									</span>
 								</section>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>个人特征</h2>
+										<h2>Erat lacinia</h2>
 									</header>
-									<div class="features" id="features">
+									<div class="features">
 										<article>
 											<span class="icon fa-gem"></span>
 											<div class="content">
-												<h3>缺乏财力</h3>
-												<p>我的奢侈：不管了奶茶就要大杯吧。</p>
+												<h3>Portitor ullamcorper</h3>
+												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 										<article>
 											<span class="icon solid fa-paper-plane"></span>
 											<div class="content">
-												<h3>不擅沟通</h3>
-												<p>我连写个代码都没人懂。编译器也不懂。</p>
+												<h3>Sapien veroeros</h3>
+												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 										<article>
 											<span class="icon solid fa-rocket"></span>
 											<div class="content">
-												<h3>有拖延症</h3>
-												<p>Deadline只能给我交一大堆trash上去的勇气。</p>
+												<h3>Quam lorem ipsum</h3>
+												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 										<article>
 											<span class="icon solid fa-signal"></span>
 											<div class="content">
-												<h3>依赖网络</h3>
-												<p>表面：没网怎么刷题、打codeforces、看专题呢？<br/>
-												实际：知乎刷起来，QQ群水起来</p>
+												<h3>Sed magna finibus</h3>
+												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 									</div>
@@ -93,56 +90,55 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>我啥玩意</h2>
+										<h2>Ipsum sed dolor</h2>
 									</header>
 									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>老颓废了</h3>
-											<p>但凡是个敏感的成人，生来就有资格郁郁寡欢。<br/>
-												——菲茨杰拉德《崩溃》</p>
+											<h3>Interdum aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>老直男了</h3>
-											<p>钢铁直男，双商低下，话题终结者。</p>
+											<h3>Nulla amet dolore</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<h3>仰望大佬</h3>
-											<p>大佬的生活在我看来很快乐。</p>
+											<h3>Tempus ullamcorper</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>努力冲刺</h3>
-											<p>我也想要努力成为和他们一样的大佬。</p>
+											<h3>Sed etiam facilis</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>怀念过去</h3>
-											<p>现在看来无忧无虑的童年，和伟大理想。</p>
+											<h3>Feugiat lorem aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>展望未来</h3>
-											<p>都会好起来的，我也要拿回属于我的东西。</p>
+											<h3>Amet varius aliquam</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#major1" class="button">More</a></li>
+												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 									</div>
@@ -164,7 +160,7 @@
 
 							<!-- Menu -->
 								<nav id="menu">
-									<header class="major" id="major1">
+									<header class="major">
 										<h2>Menu</h2>
 									</header>
 									<ul>
@@ -174,70 +170,70 @@
 										<li>
 											<span class="opener">Submenu</span>
 											<ul>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
 											</ul>
 										</li>
-										<li><a href="#">施工ing</a></li>
-										<li><a href="#">施工ing</a></li>
+										<li><a href="#">Etiam Dolore</a></li>
+										<li><a href="#">Adipiscing</a></li>
 										<li>
 											<span class="opener">Another Submenu</span>
 											<ul>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
-												<li><a href="#">施工ing</a></li>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
 											</ul>
 										</li>
-										<li><a href="#">施工ing</a></li>
-										<li><a href="#">施工ing</a></li>
-										<li><a href="#">施工ing</a></li>
+										<li><a href="#">Maximus Erat</a></li>
+										<li><a href="#">Sapien Mauris</a></li>
+										<li><a href="#">Amet Lacinia</a></li>
 									</ul>
 								</nav>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>生存状态</h2>
+										<h2>Ante interdum</h2>
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/gif07.gif" alt="" /></a>
-											<p>计科肝爆了.</p>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
-											<p>我会活下去.</p>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
-											<p>我要更强大.</p>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="#major1" class="button">More</a></li>
+										<li><a href="#" class="button">More</a></li>
 									</ul>
 								</section>
 
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>联系方式</h2>
+										<h2>Get in touch</h2>
 									</header>
-									<p>联系我这个废物有啥用呢？</p>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 									<ul class="contact">
-										<li class="icon solid fa-envelope"><a href="mailto:hsj1056496690@outlook.com<">hsj1056496690@outlook.com</a></li>
-										<li class="icon solid fa-phone">(+86)17887250203 (大概率不接)</li>
-										<li class="icon solid fa-home">Living in Internet/生活在网上<br />
-										<a href="https://huosj.github.io">huosj.github.io</a></li>
+										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
 									</ul>
 								</section>
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved.<br/>Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 
 						</div>
